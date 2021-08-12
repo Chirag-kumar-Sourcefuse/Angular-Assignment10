@@ -1,0 +1,11 @@
+.nav-item{
+    background-color:#13a326;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover {
+    background-color: rgb(39, 134, 90);
+  }
